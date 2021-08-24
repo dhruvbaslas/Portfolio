@@ -24,7 +24,7 @@ function Projects(props) {
                         <div className="card-body ProjectBody">
                             <p style={{margin: '0', color:textColor, fontSize: '18px', paddingLeft: '1rem'}} className="card-text">Portfolio</p>
                             <p style={{margin: '0', color:textColor, fontSize: '17px', paddingLeft: '1rem'}} className="card-text"><a style={{color:textColor}} href='https://dhruvbaslas.github.io' target="_blank" rel="noopener noreferrer">Personal Portfolio</a></p>
-                            <p style={{margin: '0', color:textColor, fontSize: '16px', paddingLeft: '1rem'}} className="card-text">ReactJS website for my personal Portfolio which has all data about My Work, Cetifications, Contacts and Projects.</p>
+                            <p style={{margin: '0', color:textColor, fontSize: '16px', paddingLeft: '1rem'}} className="card-text">ReactJS website for my personal Portfolio which has all data about My Work, Certifications, Contacts and Projects.</p>
                         </div>
                     </div>
                     <div className="card ProjectCard" style={{width: '35rem', paddingLeft: '5%'}}>
